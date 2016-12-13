@@ -1,0 +1,23 @@
+c:\users\wkl-pc\documents\visual studio 2010\Projects\AMAP\AMAP\bin\Debug\AMAP.exe
+c:\users\wkl-pc\documents\visual studio 2010\Projects\AMAP\AMAP\bin\Debug\AMAP.pdb
+c:\users\wkl-pc\documents\visual studio 2010\Projects\AMAP\AMAP\obj\x86\Debug\AMAP.Properties.Resources.resources
+c:\users\wkl-pc\documents\visual studio 2010\Projects\AMAP\AMAP\obj\x86\Debug\AMAP.csproj.GenerateResource.Cache
+c:\users\wkl-pc\documents\visual studio 2010\Projects\AMAP\AMAP\obj\x86\Debug\AMAP.exe
+c:\users\wkl-pc\documents\visual studio 2010\Projects\AMAP\AMAP\obj\x86\Debug\AMAP.pdb
+c:\users\wkl-pc\documents\visual studio 2010\Projects\AMAP\AMAP\obj\x86\Debug\AMAP.targetInfoGet.resources
+C:\Users\lenovo\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.exe
+C:\Users\lenovo\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.pdb
+C:\Users\lenovo\Desktop\AMAP\AMAP\bin\Debug\AMAP.exe
+C:\Users\lenovo\Desktop\AMAP\AMAP\bin\Debug\AMAP.pdb
+C:\Users\lenovo\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.targetInfoGet.resources
+C:\Users\lenovo\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.Properties.Resources.resources
+C:\Users\lenovo\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.csprojResolveAssemblyReference.cache
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.exe
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.pdb
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\bin\Debug\AMAP.exe
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\bin\Debug\AMAP.pdb
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.csprojResolveAssemblyReference.cache
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.targetInfoGet.resources
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.Properties.Resources.resources
+C:\Users\wkl-pc\Desktop\AMAP\AMAP\obj\x86\Debug\AMAP.csproj.GenerateResource.Cache
